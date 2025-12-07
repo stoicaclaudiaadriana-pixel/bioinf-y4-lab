@@ -1,0 +1,16 @@
+
+--- EXTRAS MSA (Copiați în notes.pdf) ---
+<?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-clustal_num' not available for the results of job 'clustalo-R20251207-185758-0737-19543824-p1m'</description>
+</error>
+...
+
+--- COMENTARII ---
+1. Conservare:
+Regiunea marcată cu '*' indică reziduuri identice la toate cele 5 secvențe. 
+Aceasta corespunde probabil domeniului funcțional critic al p53.
+
+2. MSA vs Pairwise:
+MSA permite vizualizarea simultană a variațiilor evolutive în grup, 
+izolând zgomotul de fond (mutații neesențiale) de regiunile structurale obligatorii.
